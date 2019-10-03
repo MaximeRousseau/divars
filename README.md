@@ -18,7 +18,7 @@ that you are running Python from or into one of the locations that Python is
 configured to look for modules in. You can then use it using Python's module
 import statements.
 
-Its features are illustrated by some examples below. It's usage should be
+Its features are illustrated by some examples below. Its usage should be
 fairly self explanatory.
 
 ## Examples
